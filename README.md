@@ -8,6 +8,6 @@ License.java -> Contains code two XML files based on certain keys and separate v
 
 ValidLicensesFile.txt -> Contain the details of licenses that are considered VALID based on their expiration date.
 
-InValidLicensesFile.txt -> Contain the details of licenses that are considered VALID based on their expiration date.
+InValidLicensesFile.txt -> Contain the details of licenses that are considered INVALID based on their expiration date.
 
 mergedFile.txt -> Contain the details of all the licenses.
